@@ -1,0 +1,31 @@
+C:\Users\Admin\OneDrive\Робочий стіл\studying\2 курс (1 семестр)\.net\lab 1\ClassLibraryBank\ConsoleAppBank\bin\Debug\ConsoleAppBank.exe.config
+C:\Users\Admin\OneDrive\Робочий стіл\studying\2 курс (1 семестр)\.net\lab 1\ClassLibraryBank\ConsoleAppBank\bin\Debug\ConsoleAppBank.exe
+C:\Users\Admin\OneDrive\Робочий стіл\studying\2 курс (1 семестр)\.net\lab 1\ClassLibraryBank\ConsoleAppBank\bin\Debug\ConsoleAppBank.pdb
+C:\Users\Admin\OneDrive\Робочий стіл\studying\2 курс (1 семестр)\.net\lab 1\ClassLibraryBank\ConsoleAppBank\bin\Debug\ClassLibraryBank.dll
+C:\Users\Admin\OneDrive\Робочий стіл\studying\2 курс (1 семестр)\.net\lab 1\ClassLibraryBank\ConsoleAppBank\bin\Debug\ClassLibraryBank.pdb
+C:\Users\Admin\OneDrive\Робочий стіл\studying\2 курс (1 семестр)\.net\lab 1\ClassLibraryBank\ConsoleAppBank\obj\Debug\ConsoleAppBank.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Робочий стіл\studying\2 курс (1 семестр)\.net\lab 1\ClassLibraryBank\ConsoleAppBank\obj\Debug\ConsoleAppBank.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Робочий стіл\studying\2 курс (1 семестр)\.net\lab 1\ClassLibraryBank\ConsoleAppBank\obj\Debug\ConsoleAppBank.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Робочий стіл\studying\2 курс (1 семестр)\.net\lab 1\ClassLibraryBank\ConsoleAppBank\obj\Debug\ConsoleAppBank.exe
+C:\Users\Admin\OneDrive\Робочий стіл\studying\2 курс (1 семестр)\.net\lab 1\ClassLibraryBank\ConsoleAppBank\obj\Debug\ConsoleAppBank.pdb
+C:\Users\Daria_Pyvovarova\Desktop\Кантора\2 КУРС\.NET\lab 1\ClassLibraryBank\ConsoleAppBank\bin\Debug\ConsoleAppBank.exe.config
+C:\Users\Daria_Pyvovarova\Desktop\Кантора\2 КУРС\.NET\lab 1\ClassLibraryBank\ConsoleAppBank\bin\Debug\ConsoleAppBank.exe
+C:\Users\Daria_Pyvovarova\Desktop\Кантора\2 КУРС\.NET\lab 1\ClassLibraryBank\ConsoleAppBank\bin\Debug\ConsoleAppBank.pdb
+C:\Users\Daria_Pyvovarova\Desktop\Кантора\2 КУРС\.NET\lab 1\ClassLibraryBank\ConsoleAppBank\bin\Debug\ClassLibraryBank.dll
+C:\Users\Daria_Pyvovarova\Desktop\Кантора\2 КУРС\.NET\lab 1\ClassLibraryBank\ConsoleAppBank\bin\Debug\ClassLibraryBank.pdb
+C:\Users\Daria_Pyvovarova\Desktop\Кантора\2 КУРС\.NET\lab 1\ClassLibraryBank\ConsoleAppBank\obj\Debug\ConsoleAppBank.csproj.AssemblyReference.cache
+C:\Users\Daria_Pyvovarova\Desktop\Кантора\2 КУРС\.NET\lab 1\ClassLibraryBank\ConsoleAppBank\obj\Debug\ConsoleAppBank.csproj.CoreCompileInputs.cache
+C:\Users\Daria_Pyvovarova\Desktop\Кантора\2 КУРС\.NET\lab 1\ClassLibraryBank\ConsoleAppBank\obj\Debug\ConsoleAppBank.csproj.CopyComplete
+C:\Users\Daria_Pyvovarova\Desktop\Кантора\2 КУРС\.NET\lab 1\ClassLibraryBank\ConsoleAppBank\obj\Debug\ConsoleAppBank.exe
+C:\Users\Daria_Pyvovarova\Desktop\Кантора\2 КУРС\.NET\lab 1\ClassLibraryBank\ConsoleAppBank\obj\Debug\ConsoleAppBank.pdb
+D:\Университет\.NETCORE zip\Дотнет\lab 1\ClassLibraryBank\ConsoleAppBank\bin\Debug\ConsoleAppBank.exe.config
+D:\Университет\.NETCORE zip\Дотнет\lab 1\ClassLibraryBank\ConsoleAppBank\bin\Debug\ConsoleAppBank.exe
+D:\Университет\.NETCORE zip\Дотнет\lab 1\ClassLibraryBank\ConsoleAppBank\bin\Debug\ConsoleAppBank.pdb
+D:\Университет\.NETCORE zip\Дотнет\lab 1\ClassLibraryBank\ConsoleAppBank\bin\Debug\ClassLibraryBank.dll
+D:\Университет\.NETCORE zip\Дотнет\lab 1\ClassLibraryBank\ConsoleAppBank\bin\Debug\ClassLibraryBank.pdb
+D:\Университет\.NETCORE zip\Дотнет\lab 1\ClassLibraryBank\ConsoleAppBank\obj\Debug\ConsoleAppBank.csproj.AssemblyReference.cache
+D:\Университет\.NETCORE zip\Дотнет\lab 1\ClassLibraryBank\ConsoleAppBank\obj\Debug\ConsoleAppBank.csproj.SuggestedBindingRedirects.cache
+D:\Университет\.NETCORE zip\Дотнет\lab 1\ClassLibraryBank\ConsoleAppBank\obj\Debug\ConsoleAppBank.csproj.CoreCompileInputs.cache
+D:\Университет\.NETCORE zip\Дотнет\lab 1\ClassLibraryBank\ConsoleAppBank\obj\Debug\ConsoleAppBank.csproj.CopyComplete
+D:\Университет\.NETCORE zip\Дотнет\lab 1\ClassLibraryBank\ConsoleAppBank\obj\Debug\ConsoleAppBank.exe
+D:\Университет\.NETCORE zip\Дотнет\lab 1\ClassLibraryBank\ConsoleAppBank\obj\Debug\ConsoleAppBank.pdb

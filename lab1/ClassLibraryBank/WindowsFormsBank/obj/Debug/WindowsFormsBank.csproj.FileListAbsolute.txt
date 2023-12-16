@@ -1,0 +1,54 @@
+C:\Users\Admin\OneDrive\Робочий стіл\studying\2 курс (1 семестр)\.net\lab 1\ClassLibraryBank\WindowsFormsBank\bin\Debug\WindowsFormsBank.exe.config
+C:\Users\Admin\OneDrive\Робочий стіл\studying\2 курс (1 семестр)\.net\lab 1\ClassLibraryBank\WindowsFormsBank\bin\Debug\WindowsFormsBank.exe
+C:\Users\Admin\OneDrive\Робочий стіл\studying\2 курс (1 семестр)\.net\lab 1\ClassLibraryBank\WindowsFormsBank\bin\Debug\WindowsFormsBank.pdb
+C:\Users\Admin\OneDrive\Робочий стіл\studying\2 курс (1 семестр)\.net\lab 1\ClassLibraryBank\WindowsFormsBank\bin\Debug\ClassLibraryBank.dll
+C:\Users\Admin\OneDrive\Робочий стіл\studying\2 курс (1 семестр)\.net\lab 1\ClassLibraryBank\WindowsFormsBank\bin\Debug\ClassLibraryBank.pdb
+C:\Users\Admin\OneDrive\Робочий стіл\studying\2 курс (1 семестр)\.net\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Робочий стіл\studying\2 курс (1 семестр)\.net\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.Form1.resources
+C:\Users\Admin\OneDrive\Робочий стіл\studying\2 курс (1 семестр)\.net\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Робочий стіл\studying\2 курс (1 семестр)\.net\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Робочий стіл\studying\2 курс (1 семестр)\.net\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Робочий стіл\studying\2 курс (1 семестр)\.net\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Робочий стіл\studying\2 курс (1 семестр)\.net\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.exe
+C:\Users\Admin\OneDrive\Робочий стіл\studying\2 курс (1 семестр)\.net\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.pdb
+C:\Users\Даша\Desktop\КУРСОВА 1 курс\lab 1\ClassLibraryBank\WindowsFormsBank\bin\Debug\WindowsFormsBank.exe.config
+C:\Users\Даша\Desktop\КУРСОВА 1 курс\lab 1\ClassLibraryBank\WindowsFormsBank\bin\Debug\WindowsFormsBank.exe
+C:\Users\Даша\Desktop\КУРСОВА 1 курс\lab 1\ClassLibraryBank\WindowsFormsBank\bin\Debug\WindowsFormsBank.pdb
+C:\Users\Даша\Desktop\КУРСОВА 1 курс\lab 1\ClassLibraryBank\WindowsFormsBank\bin\Debug\ClassLibraryBank.dll
+C:\Users\Даша\Desktop\КУРСОВА 1 курс\lab 1\ClassLibraryBank\WindowsFormsBank\bin\Debug\ClassLibraryBank.pdb
+C:\Users\Даша\Desktop\КУРСОВА 1 курс\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.AssemblyReference.cache
+C:\Users\Даша\Desktop\КУРСОВА 1 курс\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\Даша\Desktop\КУРСОВА 1 курс\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.Form1.resources
+C:\Users\Даша\Desktop\КУРСОВА 1 курс\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.Properties.Resources.resources
+C:\Users\Даша\Desktop\КУРСОВА 1 курс\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.GenerateResource.cache
+C:\Users\Даша\Desktop\КУРСОВА 1 курс\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.CoreCompileInputs.cache
+C:\Users\Даша\Desktop\КУРСОВА 1 курс\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.CopyComplete
+C:\Users\Даша\Desktop\КУРСОВА 1 курс\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.exe
+C:\Users\Даша\Desktop\КУРСОВА 1 курс\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.pdb
+C:\Users\Daria_Pyvovarova\Desktop\Кантора\2 КУРС\.NET\lab 1\ClassLibraryBank\WindowsFormsBank\bin\Debug\WindowsFormsBank.exe.config
+C:\Users\Daria_Pyvovarova\Desktop\Кантора\2 КУРС\.NET\lab 1\ClassLibraryBank\WindowsFormsBank\bin\Debug\WindowsFormsBank.exe
+C:\Users\Daria_Pyvovarova\Desktop\Кантора\2 КУРС\.NET\lab 1\ClassLibraryBank\WindowsFormsBank\bin\Debug\WindowsFormsBank.pdb
+C:\Users\Daria_Pyvovarova\Desktop\Кантора\2 КУРС\.NET\lab 1\ClassLibraryBank\WindowsFormsBank\bin\Debug\ClassLibraryBank.dll
+C:\Users\Daria_Pyvovarova\Desktop\Кантора\2 КУРС\.NET\lab 1\ClassLibraryBank\WindowsFormsBank\bin\Debug\ClassLibraryBank.pdb
+C:\Users\Daria_Pyvovarova\Desktop\Кантора\2 КУРС\.NET\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.AssemblyReference.cache
+C:\Users\Daria_Pyvovarova\Desktop\Кантора\2 КУРС\.NET\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.Form1.resources
+C:\Users\Daria_Pyvovarova\Desktop\Кантора\2 КУРС\.NET\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.Properties.Resources.resources
+C:\Users\Daria_Pyvovarova\Desktop\Кантора\2 КУРС\.NET\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.GenerateResource.cache
+C:\Users\Daria_Pyvovarova\Desktop\Кантора\2 КУРС\.NET\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.CoreCompileInputs.cache
+C:\Users\Daria_Pyvovarova\Desktop\Кантора\2 КУРС\.NET\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.CopyComplete
+C:\Users\Daria_Pyvovarova\Desktop\Кантора\2 КУРС\.NET\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.exe
+C:\Users\Daria_Pyvovarova\Desktop\Кантора\2 КУРС\.NET\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.pdb
+D:\Университет\.NETCORE zip\Дотнет\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.AssemblyReference.cache
+D:\Университет\.NETCORE zip\Дотнет\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.SuggestedBindingRedirects.cache
+D:\Университет\.NETCORE zip\Дотнет\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.Form1.resources
+D:\Университет\.NETCORE zip\Дотнет\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.Properties.Resources.resources
+D:\Университет\.NETCORE zip\Дотнет\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.GenerateResource.cache
+D:\Университет\.NETCORE zip\Дотнет\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.CoreCompileInputs.cache
+D:\Университет\.NETCORE zip\Дотнет\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.exe
+D:\Университет\.NETCORE zip\Дотнет\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.pdb
+D:\Университет\.NETCORE zip\Дотнет\lab 1\ClassLibraryBank\WindowsFormsBank\bin\Debug\WindowsFormsBank.exe.config
+D:\Университет\.NETCORE zip\Дотнет\lab 1\ClassLibraryBank\WindowsFormsBank\bin\Debug\WindowsFormsBank.exe
+D:\Университет\.NETCORE zip\Дотнет\lab 1\ClassLibraryBank\WindowsFormsBank\bin\Debug\WindowsFormsBank.pdb
+D:\Университет\.NETCORE zip\Дотнет\lab 1\ClassLibraryBank\WindowsFormsBank\bin\Debug\ClassLibraryBank.dll
+D:\Университет\.NETCORE zip\Дотнет\lab 1\ClassLibraryBank\WindowsFormsBank\bin\Debug\ClassLibraryBank.pdb
+D:\Университет\.NETCORE zip\Дотнет\lab 1\ClassLibraryBank\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.CopyComplete
